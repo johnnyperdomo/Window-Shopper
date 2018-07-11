@@ -20,4 +20,4 @@ Simple iOS app that calculates how many hours to purchase an item by your hourly
 Devslopes Tuts
 
 ## License
-Standard MIT [License](https://github.com/johnnyperdomo/App-Swoosh/blob/master/LICENSE) 
+Standard MIT [License](https://github.com/johnnyperdomo/Window-Shopper/blob/master/LICENSE) 
