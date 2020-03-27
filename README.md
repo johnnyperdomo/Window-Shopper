@@ -2,7 +2,7 @@
 Simple iOS app that calculates how many hours to purchase an item by your hourly wage written in Swift 4
 
 ## Preview
-![Alt Text](https://media.giphy.com/media/3FbCHSKsfpRN7H0pyO/giphy.gif)
+![Alt Text](https://media.giphy.com/media/MBfxioCtIi5mwuI0M8/giphy.gif)
 
 **Built with**
 - Ios 10
